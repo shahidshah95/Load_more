@@ -1,0 +1,7 @@
+1. When the page loads, it shows 9 posts.
+
+2. When you click on the "Load More" button, it adds 3 more posts each time you click it.
+
+3. We use Ajax for the "Load More" button.
+
+4. The "Load More" button is hidden when all posts have been displayed.
